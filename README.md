@@ -6,11 +6,7 @@ The objective of the project is to build a vision-based navigating system, such 
 
 ### System Input ### 
 ***
-As input, the system gets stereo images, provided by the KITTI project. The input images were taken using the KITTI project car, which is equipped with a stereo camera sensor:
-
-![images_large_10 1177_0278364913491297-fig1](https://github.com/dortal721/VANProject/assets/129318571/20edd0e4-a38d-4ad0-8810-4070a9cb1d12)
-
-(image taken from [https://journals.sagepub.com/doi/10.1177/0278364913491297](url) )
+As input, the system gets stereo images, provided by the KITTI project. The input images were taken using the KITTI project car, which is equipped with a stereo camera sensor.
 
 Single frame example: 
 
