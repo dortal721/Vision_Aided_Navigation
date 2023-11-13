@@ -1,4 +1,4 @@
-### Video Aided Navigation project ### 
+### Vision Aided Navigation project ### 
 
 This repository contains the implementation of my final project for the 'SLAM - Video Navigation' course at HUJI. 
 
