@@ -1,8 +1,11 @@
 ### Vision Aided Navigation project ### 
+***
+The project aims to develop a vision-based navigation system capable of precisely assessing the test car's relative movement along the trajectory. 
 
-This repository contains the implementation of my final project for the 'SLAM - Video Navigation' course at HUJI. 
+The system utilizes stereo images to understand surroundings, employing OpenCV with a focus on SIFT for robust feature detection. It calculates depth by triangulating visual data, enhancing precision. Behind the scenes, it implements optimizations like RANSAC for reliable feature matching, achieving an impressive 99.99% inlier confidence, and PoseGraph for refining position estimations. 
 
-The objective of the project is to build a vision-based navigating system, such that would be able to evaluate the relative movement of the test car along the trajectory.  
+Note: In the current version (presented in this repository) SIFT was replaced with ALIKE (see Code Structure section for further details).
+
 
 ### System Input ### 
 ***
